@@ -1,5 +1,5 @@
 {
-  "name": "gusapi/gusapi",
+  "name": "blu/gusapi",
   "description": "Gus Api Library for PHP",
   "type" : "library",
   "license": "LGPL-2.1-or-later",
@@ -8,10 +8,13 @@
     {
       "name": "Janusz Żukowicz",
       "email": "janusz.zukowicz@gmail.com"
+    },
+    {
+      "name": "Krzysiek Lipiński"
     }
   ],
   "require": {
-    "php" : "^8.0",
+    "php" : "^8.4",
     "ext-soap": "*",
     "ext-simplexml": "*",
     "ext-json": "*"
